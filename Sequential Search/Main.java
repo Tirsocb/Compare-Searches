@@ -1,14 +1,24 @@
 package com.company;
+import java.util.Random;
+
+
 
 public class Main {
 
     public static void main(String[] args) {
-	Insertion insertion= new Insertion();
-	Sequential_Search search = new Sequential_Search();
+       
+        Random rand = new Random();
+        int key = rand.nextInt(10001);
+        Insertion insertion = new Insertion();
+        Sequential_Search search = new Sequential_Search();
 
-	int[] Array = new int[100000];
+        int[] Array = new int[100000];
         insertion.Insert(Array);
-        search.SequentialSearchMultiple(Array);
-        search.SequentialSearch(Array);
+        //search.SequentialSearch(Array, key);
+        search.SequentialSearchMultiple(Array, key);
+
+
+
     }
 }
+
