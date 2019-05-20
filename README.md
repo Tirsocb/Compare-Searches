@@ -11,7 +11,7 @@ Numbers from 1 to 10000 will be inserted into randomly to the array, the array w
 
 Numbers from 1 to 10000 will be inserted into the Binary tree, the program will automatically sort them and 100,000 values will be inserted.
 
-## What Do I expect?
+## What do I expect?
 
 Mi hipótesis es que el programa mas eficiente va a ser el del árbol porque:
 1. sequential tiende a ser bastante ineficiente en un arreglo desordenado, con una complejidad, (en el peor de los casos) de O(n).
