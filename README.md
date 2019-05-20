@@ -1,7 +1,7 @@
 # Compare-Searches
 ***
 ## Objective
-Compare search times between an array and a Binary tree.
+Compare search times between an array and a Binary Search tree.
 
 the array will be searched using the following algorithms:
 * Sequential
