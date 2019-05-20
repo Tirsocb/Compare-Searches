@@ -13,7 +13,7 @@ Numbers from 1 to 10000 will be inserted into the Binary tree, the program will 
 
 ## What Do I expect?
 
-mi hipótesis es que el programa mas eficiente va a ser el del árbol porque:
+Mi hipótesis es que el programa mas eficiente va a ser el del árbol porque:
 1. sequential tiende a ser bastante ineficiente en un arreglo desordenado, con una complejidad, (en el peor de los casos) de O(n).
 2. exponential requiere que el arreglo esté ordenado de forma asendente y ordenarlo toma recursos, en el caso de este trabajo utilizaré Quicksort para ordenar el arrelo ya que en el caso promedio es el algoritmo de sorting mas rapido con una complejidad de o(n log n) en este tipo casos.
 
