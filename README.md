@@ -36,6 +36,6 @@ de no haber tenido que ordenar el arreglo antes de hacer la busqueda exponencial
 *cabe mencionar que en los programas anteriores cada uno tiene un arreglocon valores diferentes y se buscan valores diferentes, por lo cual los resultados pueden variar, los resultados del estudio realizado son un promedio de múltiples ejecuciones de dichos programas.
 
 ### A note on Profiling
-si quieren ver el profiling completeo, subi los snapshots de Jprofiler
+si quieren ver el profiling completo, subí los snapshots de Jprofiler a cada folder de profiling
 
-puede instalar Jprofiler aqui https://www.ej-technologies.com/products/jprofiler/overview.html [Jprofiler]
+puede instalar Jprofiler aqui https://www.ej-technologies.com/products/jprofiler/overview.html
