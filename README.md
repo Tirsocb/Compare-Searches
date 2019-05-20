@@ -34,3 +34,8 @@ el mejor de los programas de busqueda que fueron comparados, el Binary search Tr
 de no haber tenido que ordenar el arreglo antes de hacer la busqueda exponencial, esta le hubiera ganado en la mayoría de los casos, si no es que en todos, a la búsqueda secuencial.
 
 *cabe mencionar que en los programas anteriores cada uno tiene un arreglocon valores diferentes y se buscan valores diferentes, por lo cual los resultados pueden variar, los resultados del estudio realizado son un promedio de múltiples ejecuciones de dichos programas.
+
+### A note on Profiling
+si quieren ver el profiling completeo, subi los snapshots de Jprofiler
+
+puede instalar Jprofiler aqui https://www.ej-technologies.com/products/jprofiler/overview.html [Jprofiler]
